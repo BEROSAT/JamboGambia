@@ -2,10 +2,10 @@
 {
   "0":{
   "id":"1",
-  "name":"MUZANGALA TV",
+  "name":"QTV",
   "description":"1501",
-  "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+  "live_url":"https://player.qtv.gm/hls/live.stream.m3u8",
+  "thumbnail":"https://standard.gm/wp-content/uploads/2020/08/QTV-696x495.jpg",
   "categorie":"SPORTS"
   },
   "1":{
